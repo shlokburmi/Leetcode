@@ -30,4 +30,8 @@ public:
 
         return result;
     }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 6c4226d1ed19d5c0e8140cab7c8c8d1cfea64356
